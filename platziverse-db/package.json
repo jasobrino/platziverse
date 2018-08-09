@@ -1,0 +1,22 @@
+{
+    "name": "platziverse-db",
+    "version": "1.0.0",
+    "description": "simple plataforma IoT - modulo DB",
+    "main": "index.js",
+    "scripts": {
+        "lint": "standard"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jasobrino/platziverse.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jasobrino/platziverse/issues"
+    },
+    "homepage": "https://github.com/jasobrino/platziverse#readme",
+    "devDependencies": {
+        "standard": "^11.0.1"
+    }
+}
